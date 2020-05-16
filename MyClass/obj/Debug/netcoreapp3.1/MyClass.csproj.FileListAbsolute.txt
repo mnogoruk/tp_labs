@@ -1,0 +1,13 @@
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\79141\source\repos\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
+C:\Users\79141\source\repos\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
