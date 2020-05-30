@@ -18,7 +18,7 @@ namespace Utils
                 x2 = 0;
                 return -1;
 
-            }else if (D == 0)
+            } else if (D == 0)
             {
                 x1 = x2 = -(b / a);
                 return 0;

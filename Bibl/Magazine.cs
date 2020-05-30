@@ -4,12 +4,16 @@ using System.Text;
 
 namespace MyClass
 {
-    class Magazine: Item, IPubs
+    public delegate void ProcessMagazineDelegate(Magazine mag, DateTime dt);
+    public class Magazine: Item, IPubs
     {
         public bool IfSubs { get; set; }
+        public static event ProcessMagazineDelegate Subscribe = null;
         public void Subs()
         {
             IfSubs = true;
+            if (Subscribe != null)
+                Subscribe(this, DateTime.Now);
         }
         public override string ToString()
         {
@@ -44,4 +48,5 @@ namespace MyClass
         }
 
     }
+    
 }

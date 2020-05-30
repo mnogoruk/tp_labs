@@ -4,8 +4,8 @@ using System.Text;
 
 namespace MyClass
 {
-    abstract class Progression
+    interface IProgression
     {
-        public abstract int GetElement(int k);
+        public int GetElement(int k);
     }
 }

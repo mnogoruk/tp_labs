@@ -1,0 +1,16 @@
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.csprojAssemblyReference.cache
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.csproj.CoreCompileInputs.cache
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.AssemblyInfoInputs.cache
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.AssemblyInfo.cs
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.exe
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.deps.json
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.runtimeconfig.json
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.runtimeconfig.dev.json
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.dll
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\Corparation.pdb
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\79141\source\repos\Corparation\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.csproj.CopyComplete
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.dll
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.pdb
+C:\Users\79141\source\repos\Corparation\obj\Debug\netcoreapp3.1\Corparation.genruntimeconfig.cache

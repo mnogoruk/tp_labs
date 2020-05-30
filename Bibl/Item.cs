@@ -4,8 +4,15 @@ using System.Text;
 
 namespace MyClass
 {
-    abstract class Item
+    public abstract class Item: IComparable
     {
+        public int CompareTo(object obj)
+        {
+            Item it = (Item)obj;
+            if (this.invNumber == it.invNumber) return 0;
+            else if (this.invNumber > it.invNumber) return 1;
+            else return -1;
+        }
         public abstract void Return(); // операция "вернуть"
 
 
@@ -56,6 +63,5 @@ namespace MyClass
             Console.WriteLine("Состояние единицы хранения:\n Инвентарный номер: " +
                 "{0}\n Наличие: {1}", invNumber, taken);
         }
-        
     }
 }

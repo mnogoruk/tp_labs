@@ -12,7 +12,7 @@ namespace MyClass
             this.a = a;
             this.b = b;
         }
-        public override int GetElement(int k)
+        public int GetElement(int k)
         {
             return a + b * (k - 1);            
         }

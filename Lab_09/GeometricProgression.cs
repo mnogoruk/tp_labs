@@ -12,7 +12,7 @@ namespace MyClass
             this.a = a;
             this.q = q;
         }
-        public override int GetElement(int k)
+        public int GetElement(int k)
         {
             return a * (int)Math.Pow(q, (k - 1));
         }

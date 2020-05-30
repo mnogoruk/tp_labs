@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ab6T4ULDJtH4sZGJNQWPnZTRYHEt0kB/9zBx2s3N5uwgnktfdvQsVPMgaCKJjwN/tYAUTGzG/snmo92JNCRiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79141\\source\\repos\\Bibl\\Bibl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79141\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\79141\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

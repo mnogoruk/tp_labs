@@ -1,0 +1,9 @@
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Users\79141\source\repos\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Users\79141\source\repos\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Users\79141\source\repos\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Users\79141\source\repos\Bibl\obj\Debug\netstandard2.0\Bibl.pdb
